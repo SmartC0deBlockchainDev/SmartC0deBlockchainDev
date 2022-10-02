@@ -10,8 +10,11 @@
 -  Near, NEP171, NEP141, Rust, Assembly
 -  Uniswap Fork, Pancakeswap Fork, Olympus Dao Fork
 -  Bigchaindb, Graphprotocol, Crypto payment Integration
+
 ✅ Web
 -  MERN stack, Javascript, Typescript, Vue, Next, Nuxt, PHP, Laravel, CodeIgniter, Rest API, GraphQL, Mysql, MongDB, PostgreSQL
+
+
 ✅ Mobile
 -  Native iOS/Android, Hybrid  with Ionic, Cordova, React Native, Flutter, Xamarin.
 <p align="center">
